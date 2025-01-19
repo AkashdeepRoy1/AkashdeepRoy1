@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkashdeepRoy1 (Akashdeep Roy)
-- 👀 I’m interested in AI or Robotics,Cyber security,Game development
+- 👀 I’m interested in AI or Robotics,Cyber security,Game development,mechatronics
 - 🌱 I’m currently learning how to become a better programmer
 - 💞️ I’m looking to collaborate on any kind of projects 
 - 📫 How to reach me email - iamakash6289@gmail.com
