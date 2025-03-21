@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any kind of projects 
 - 📫 How to reach me email - iamakash6289@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Blah Blah BLah
+- ⚡ Fun fact: Blah Blah Blah
 
 <!---
 AkashdeepRoy1/AkashdeepRoy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
